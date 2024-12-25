@@ -1,18 +1,18 @@
 # [theHackCalendar](https://thedevarmy.com/thehackcalendar/) - by [theDevArmy](https://thedevarmy.com/)
 
-*Listing all the Indian in-person hackathons at one place!!*
+*Listing all the Indian hackathons at one place!!*
 
 ---
 
 ## **About**
 
-theHackCalendar is a community initiative by theDevArmy aimed at promoting hackathon culture within India. We believe in making it easier for hackathon enthusiasts to find and participate in Indian in-person hackathons. Our goal is to list all the Indian hackathons in one place, providing a convenient way for enthusiasts to stay updated and get involved.
+theHackCalendar is a community initiative by theDevArmy aimed at promoting hackathon culture within India. We believe in making it easier for hackathon enthusiasts to find and participate in Indian hackathons. Our goal is to list all the Indian hackathons in one place, providing a convenient way for enthusiasts to stay updated and get involved.
 
 ---
 
 Are you a hackathon enthusiast?
 
-Ofcourse you are! Every engineering student wishes to participate in an in-person hackathon at least once in his/her college life.
+Ofcourse you are! Every engineering student wishes to participate in an hackathon at least once in his/her college life.
 
 ### The Problem?
 
