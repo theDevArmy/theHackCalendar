@@ -1,10 +1,14 @@
 # theDevArmy Community Partnership Guidelines
 
-**Last Updated:** *December 25, 2024*
+**Last Updated:** *January 5, 2025*
 
 ## Objective
 
-This document outlines the guidelines for community collaborations with theDevArmy and theHackCalendar. The aim is to ensure mutual benefits and a smooth partnership process.
+This document outlines the guidelines for community collaborations with **theDevArmy** and **theHackCalendar**. The aim is to ensure mutual benefits and a smooth partnership process.
+
+## About theDevArmy
+
+theDevArmy is a community of 4000+ hackers dedicated to strengthening the Indian Hackathon Ecosystem. We started an initative called theHackCalendar where we try to list all the Indian Hackathons at one place, which makes it easier for the hackers to find and participate in the hackathons easily. We also send monthly newsletter with the latest hackathons to keep our community updated.
 
 ## Eligibility Criteria
 
@@ -17,10 +21,11 @@ This document outlines the guidelines for community collaborations with theDevAr
 
 Upon approval, theDevArmy will provide the following:
 
-1. **Hackathon Listing:** Inclusion of the hackathon on theHackCalendar
-2. **WhatsApp Promotion:** Promotion within theDevArmy WhatsApp Community (4,000+ members).
-3. **Discord Promotion:** Promotion within theDevArmy Discord Community (1,200+ members).
-4. **Newsletter Feature:** Listing in the monthly newsletter (750+ subscribers), provided that registrations are open during the newsletter’s release schedule.
+1. **Hackathon Listing:** Inclusion of the hackathon on **[theHackCalendar](https://thedevarmy.com/thehackcalendar/)**
+2. **WhatsApp Promotion:** Promotion within theDevArmy **[WhatsApp](https://thedevarmy.com/wa)** Community(4,000+ members).
+3. **Discord Promotion:** Promotion within theDevArmy **[Discord](https://thedevarmy.com/discord)** Community (1,200+ members).
+4. **Newsletter Feature:** Listing in the monthly **[newsletter](https://lu.ma/thehackcalendar/)** (800+ subscribers), provided that registrations are open during the newsletter’s release schedule.
+5. **Social Media Promotion:** Social Media Promotion across **[Instagram](https://instagram.com/the.devarmy/)**, **[LinkedIn](https://linkedin.com/company/theDevArmy)** and **[Twitter](https://x.com/thedevarmy)** from theDevArmy's handle in the monthly hackathon **[post](https://www.instagram.com/share/p/BAI5RCUimd)**, provided that registrations are open during the release schedule. 
 
 ## Deliverables Expected from the Hackathon
 
