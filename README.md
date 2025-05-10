@@ -39,9 +39,9 @@ Checkout: [theHackCalendar](https://thedevarmy.com/thehackcalendar/)
 
 Where we are trying to list all the Indian in-person hackathons at one place.
 
-We have listed 50+ hackathons in just last 4 months.
+We have listed 92+ hackathons in 2024.
 
-We even received a great response from the community and we have built a [WhatsApp Community](https://theDevArmy.com/wa/) of 1500+ enthusiasts and a [Discord Community](https://theDevArmy.com/discord) of 500+ 
+We even received a great response from the community and we have built a [WhatsApp Community](https://theDevArmy.com/wa/) of 4500+ enthusiasts and a [Discord Community](https://theDevArmy.com/discord) of 1500+ 
 
 ---
 
